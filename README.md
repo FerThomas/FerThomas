@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Fer Thomas 👋
 
-<!--
-**FerThomas/FerThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web, Móvil y Diseñador Gráfico 🇦🇷
 
-Here are some ideas to get you started:
+Apasionado por transformar ideas en soluciones digitales atractivas y funcionales. Mi enfoque es construir experiencias de usuario completas, desde el diseño visual hasta la implementación de código robusto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Mis Habilidades Principales:
+
+| Categoría     | Tecnologías                               |
+|---------------|-------------------------------------------|
+| **Web** | Next.js, React, TailwindCSS, JavaScript, TypeScript, Node.js |
+| **Móvil** | Android (Kotlin), iOS (Swift), React Native |
+| **Diseño** | Figma, Photoshop, UI/UX Design            |
+| **Otros** | Discord.js, Git, GitHub                   |
+
+---
+
+### Proyectos Destacados:
+
+---
+
+### Contáctame:
+
+- **Instagram Profesional:** [@ferthomas_d](https://www.instagram.com/ferthomas_d)
+- **Email:** [tu.email@example.com](mailto:fernandoth.20@gmail.com.com)
+
+---
