@@ -19,6 +19,9 @@ Apasionado por transformar ideas en soluciones digitales atractivas y funcionale
 
 ### Proyectos Destacados:
 
+- **Web Personal:** [Github](https://github.com/FerThomas/ferthomas.github.com)
+- **Web Personal:** [Page](https://ferthomas.netlify.app/)
+  
 ---
 
 ### Contáctame:
