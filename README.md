@@ -12,7 +12,7 @@ Apasionado por transformar ideas en soluciones digitales atractivas y funcionale
 |---------------|-------------------------------------------|
 | **Web** | Next.js, React, TailwindCSS, JavaScript, TypeScript, Node.js |
 | **Móvil** | Android (Kotlin), iOS (Swift), React Native |
-| **Diseño** | Figma, Photoshop, UI/UX Design            |
+| **Diseño** | Inkscape, GIMP, Figma, UI/UX Design        |
 | **Otros** | Discord.js, Git, GitHub                   |
 
 ---
