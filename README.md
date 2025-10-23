@@ -26,7 +26,7 @@ Apasionado por transformar ideas en soluciones digitales atractivas y funcionale
 
 ### Contáctame:
 
-- **Instagram Profesional:** [@ferthomas_d](https://www.instagram.com/ferthomas_d)
-- **Email:** [tu.email@example.com](mailto:fernandoth.20@gmail.com.com)
+- **Instagram Profesional:** [@ferthomas.dev](https://www.instagram.com/ferthomas.dev)
+- **Email:** [gmail](mailto:fernandoth.20@gmail.com.com)
 
 ---
